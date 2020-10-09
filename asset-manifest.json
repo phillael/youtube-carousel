@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youtube-carousel/static/css/main.a836ab3e.chunk.css",
+    "main.js": "/youtube-carousel/static/js/main.f4496ac8.chunk.js",
+    "main.js.map": "/youtube-carousel/static/js/main.f4496ac8.chunk.js.map",
+    "runtime-main.js": "/youtube-carousel/static/js/runtime-main.f6f36002.js",
+    "runtime-main.js.map": "/youtube-carousel/static/js/runtime-main.f6f36002.js.map",
+    "static/js/2.c12eb56f.chunk.js": "/youtube-carousel/static/js/2.c12eb56f.chunk.js",
+    "static/js/2.c12eb56f.chunk.js.map": "/youtube-carousel/static/js/2.c12eb56f.chunk.js.map",
+    "index.html": "/youtube-carousel/index.html",
+    "precache-manifest.3bb8189aa01480d0269fc06a59f2ccb5.js": "/youtube-carousel/precache-manifest.3bb8189aa01480d0269fc06a59f2ccb5.js",
+    "service-worker.js": "/youtube-carousel/service-worker.js",
+    "static/css/main.a836ab3e.chunk.css.map": "/youtube-carousel/static/css/main.a836ab3e.chunk.css.map",
+    "static/js/2.c12eb56f.chunk.js.LICENSE.txt": "/youtube-carousel/static/js/2.c12eb56f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6f36002.js",
+    "static/js/2.c12eb56f.chunk.js",
+    "static/css/main.a836ab3e.chunk.css",
+    "static/js/main.f4496ac8.chunk.js"
+  ]
+}
