@@ -1,0 +1,30 @@
+:root {
+  --overlay-bg-color: rgba(31, 30, 29, 0.8);
+  --stats-color: rgb(161, 156, 156);
+  font-size: 0.85rem;
+}
+
+body,
+html,
+#root {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  /* display: inline-block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; */
+  background: rgb(255, 250, 239);
+  font-family: Roboto, Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
