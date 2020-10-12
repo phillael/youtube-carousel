@@ -8,12 +8,12 @@ export default function Top(props) {
       <div className="overlays">
         <div className="icon">
           <FontAwesomeIcon icon={faClock} />
-          <div className="pop-out">WATCH LATER</div>
+          <div className="pop-out watch-later">WATCH LATER</div>
         </div>
 
         <div className="icon">
           <FontAwesomeIcon icon={faList} />
-          <div className="pop-out">ADD TO QUEUE</div>
+          <div className="pop-out add-to-queue">ADD TO QUEUE</div>
         </div>
 
         <div className="time">{props.length}</div>
